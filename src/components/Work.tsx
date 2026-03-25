@@ -60,6 +60,18 @@ const Work = () => {
     image: "/images/pryzm.webp",
   },
   {
+    name: "Canara HSBC Insurance(ISNP)",
+    category: "Term Insurance",
+    tools: "React, Redux, Nodejs, Expressjs, MySQL, MongoDB,HTML,CSS,Javascript, Redis,Typescript, Javascript, Nestjs, Docker, Kubernetes",
+    image: "/images/isnp.webp",
+  },
+  {
+    name: "Zintellix",
+    category: "AI-powered e-commerce analytics platform",
+    tools: "React, Redux, Nodejs, Expressjs, MySQL, MongoDB,HTML,CSS,Javascript, Redis,Typescript, Javascript, Nestjs, Docker, Kubernetes",
+    image: "/images/zintellix.webp",
+  },
+  {
     name: "Zintellix",
     category: "AI-powered e-commerce analytics platform",
     tools: "React, Redux, Nodejs, Expressjs, MySQL, MongoDB,HTML,CSS,Javascript, Redis,Typescript, Javascript, Nestjs, Docker, Kubernetes",
