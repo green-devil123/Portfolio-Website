@@ -71,12 +71,12 @@ const Work = () => {
     tools: "React, Redux, Nodejs, Expressjs, MySQL, MongoDB,HTML,CSS,Javascript, Redis,Typescript, Javascript, Nestjs, Docker, Kubernetes",
     image: "/images/zintellix.webp",
   },
-  {
-    name: "Zintellix",
-    category: "AI-powered e-commerce analytics platform",
-    tools: "React, Redux, Nodejs, Expressjs, MySQL, MongoDB,HTML,CSS,Javascript, Redis,Typescript, Javascript, Nestjs, Docker, Kubernetes",
-    image: "/images/zintellix.webp",
-  }
+    // {
+    //   name: "Zintellix",
+    //   category: "AI-powered e-commerce analytics platform",
+    //   tools: "React, Redux, Nodejs, Expressjs, MySQL, MongoDB,HTML,CSS,Javascript, Redis,Typescript, Javascript, Nestjs, Docker, Kubernetes",
+    //   image: "/images/zintellix.webp",
+    // }
   ]
   return (
     <div className="work-section" id="work">
