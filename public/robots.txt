@@ -1,0 +1,6 @@
+# Allow all search engines to crawl the whole site
+User-agent: *
+Allow: /
+
+# Point to your sitemap so Google finds your pages faster
+Sitemap: https://www.tarunova.online/sitemap.xml
