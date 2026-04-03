@@ -13,6 +13,7 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
+  "/images/genai.webp",
   "/images/react2.webp",
   "/images/node2.webp",
   "/images/express.webp",
