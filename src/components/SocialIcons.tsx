@@ -82,7 +82,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="https://drive.google.com/file/d/1-QHuq5S90Aniqc8gmIvVZgpccHDlDEz4/view?usp=sharing"
+        href="https://drive.google.com/file/d/1q_Iuph5OYYZA4dlcegUjp-g_Xdejcb6C/view"
         target="_blank"
         rel="noopener noreferrer"
       >

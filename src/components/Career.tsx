@@ -49,7 +49,7 @@ const Career = () => {
               Designed and deployed Empower Pryzm, a robust observability platform. Developed a Term Insurance ISNP platform with 40 APIs, reducing response times by 70%, and built data integration tools.
             </p>
           </div>
-          <div className="career-info-box">
+          {/* <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Software Engineer</h4>
@@ -60,14 +60,14 @@ const Career = () => {
             <p>
               Engineered AI chatbots with Dialogflow for enterprise clients including ITC Hotels and Borosil, reducing support tickets by 30%. Built scalable dashboards and backend services.
             </p>
-          </div>
+          </div> */}
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Software Engineer</h4>
                 <h5>Manprax Software LLP</h5>
               </div>
-              <h3>2018 - 2020</h3>
+              <h3>2018 - 2021</h3>
             </div>
             <p>
               Delivered multiple full-stack projects including event engagement portals and bidding platforms. Began as an Intern and progressed to implementing scalable features across various dashboards.
